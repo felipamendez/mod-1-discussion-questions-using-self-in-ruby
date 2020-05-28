@@ -32,13 +32,12 @@ Take 30 minutes and answer the following questions together with your group. Tak
 
     end
 
-      archer = FunnyBots.new("Archer", ["Danger Zone!", "Read a book", "The cumulative hangover would literally kill me"] )
+      archer = FunnyBots.new("Archer", ["Q: How did the programmer die in the shower? A:He read the shampoo bottle instructions: Lather. Rinse. Repeat. ", "A UI is like a joke. If you have to explain it, it's not good.", "Q: How many programmers does it take to change a light bulb? A: None – It’s a hardware problem"] )
 
   A. What is **self** in this line ```@@bots << self``` ?  
   B. What is **self** in this line ```self.quotes.sample```?  
-  C. What kind of **method** is this & what is **self**? ```  def self.bots  
-      @@bots end ```  
-  D. Will this work ```archer.bots```? If not, why? 
+  C. What kind of **method** is `self.bots` & what is **self**? 
+  D. Will this work ```archer.bots```? Why / why not? 
 
 2 .
 
