@@ -4,9 +4,7 @@
 
 Take 30 minutes and answer the following questions together with your group. Take turns playing around with the code provided in Pry or IRB.
 
-<p align="center">
-  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_110_%20FunnyRobots.png" alt="funny robots" width="300"/>
-</p>
+![](https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_110_%20FunnyRobots.png)
 
 1 .   
 
@@ -41,9 +39,7 @@ Take 30 minutes and answer the following questions together with your group. Tak
 
 2 .
 
-<p align="center">
-  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_111A_Photo%20by%20C%20Drying%20on%20Unsplash.png" alt="Photo by C Drying on Unsplash." width="300"/>
-</p>
+![](https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_111A_Photo%20by%20C%20Drying%20on%20Unsplash.png)
 
     class Bicycle
 
@@ -69,4 +65,4 @@ Take 30 minutes and answer the following questions together with your group. Tak
 
   For what reasons will the following method calls fail :```mongoose.tire_size = 5```, ```mongoose.gears```, ```Bicycle.bikes```, ```Bicycle.styles```? Restructure the class to fix the issues.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/week-1-day-5-discussion'>Week 1 Day 5 Discussion</a> on Learn.co and start learning to code for free.</p>
+
